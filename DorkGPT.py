@@ -61,7 +61,7 @@ def start_chat():
     console.print(Align.center(Panel.fit(
         "[bold cyan]DorkGPT (Google Dork Generator)[/bold cyan]\n"
         "Type '[bold red]exit[/bold red]' to quit.",
-        title="Welcome", subtitle="Using gemma3:12b <3")))
+        title="Welcome", subtitle="Using Ollama <3")))
     console.print()  # spacing
     # Helpful Examples
     console.print(Align.center(Panel.fit(
