@@ -78,7 +78,7 @@ def start_chat():
     model_name = "gemma3:12b" # Model name and version (change if needed)
 
     # Dividing line
-    console.rule("[black]Google Dork Search Query[/black]", style="black")
+    console.rule("[white]Google Dork Search Query[/white]", style="white")
 
     # Main loop for user input
     while True:
