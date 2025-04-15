@@ -49,6 +49,7 @@ GoogleDorkAI or DorkGPT provides a simiple terminal interface using rich and use
 
 ## Contributing
 Please feel free to leave comments, recommendations, and contribute however you feel :)
+If there is a better way to format the prompt for more efficient results, please let me know :)
 
 ### Other Notes:
 I personally use gemma3:12b as my base AI but any model should work for this. You can also change the response result if you edit the prompt in prompts.py if desired.
