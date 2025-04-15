@@ -14,11 +14,11 @@ GoogleDorkAI or DorkGPT provides a simiple terminal interface using rich and use
    ```
 2. Set up a Python virtual environment:
    ```bash
-   python3 -m venv venv
+   python3 -m venv DorkGPT
    # Mac/Linux
-   source venv/bin/activate
+   source DorkGPT/bin/activate
    # Windows
-   venv\Scripts\activate
+   DorkGPT\Scripts\activate
    ```
 3. Install dependencies:
    ```bash
