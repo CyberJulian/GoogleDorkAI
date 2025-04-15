@@ -1,5 +1,5 @@
 # GoogleDorkAI
-AI powered Google Dork Command Generator
+AI powered Google Dork Command Generator (Still in Beta)
 
 ## Overview
 
