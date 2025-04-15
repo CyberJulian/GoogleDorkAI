@@ -36,11 +36,11 @@ GoogleDorkAI or DorkGPT provides a simiple terminal interface using rich and use
    Find me resume's between this year March and April
    ```
 3. DorkGPT will generate a response:
-   ```
-   ╭──────────────────────── Google Dork ─────────────────────────╮
-   │ filetype:pdf inurl:resume after:2025-03-01 before:2025-04-30 │
-   ╰──────────────────────────────────────────────────────────────╯
-   ```
+   <pre>
+   &#32;&#32;&#32;╭──────────────────────── Google Dork ─────────────────────────╮  
+   &#32;&#32;&#32;│ filetype:pdf inurl:resume after:2025-03-01 before:2025-04-30 │  
+   &#32;&#32;&#32;╰──────────────────────────────────────────────────────────────╯
+   </pre>
 
 ## Contributing
 Please feel free to leave comments, recommendations, and contribute however you feel :)
