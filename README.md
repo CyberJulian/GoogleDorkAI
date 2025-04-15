@@ -3,7 +3,7 @@ AI powered Google Dork Command Generator
 
 ## Overview
 
-GoogleDorkAI or DorkGPT provides a simiple terminal interface using rich and uses an tuned Ollama model to generate a Google Dork command based the user's search query.
+GoogleDorkAI or DorkGPT provides a simiple terminal interface using rich and uses a tuned Ollama model to generate a Google Dork command based the user's search query.
 
 ## Installation
 
