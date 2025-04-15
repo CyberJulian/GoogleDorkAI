@@ -9,7 +9,7 @@ GoogleDorkAI or DorkGPT provides a simiple terminal interface using rich and use
 
 1. Clone the repository:
    ```bash
-   https://github.com/CyberJulian/GoogleDorkAI.git
+   git clone https://github.com/CyberJulian/GoogleDorkAI.git
    cd GoogleDorkAI
    ```
 2. Set up a Python virtual environment:
