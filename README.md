@@ -26,6 +26,11 @@ GoogleDorkAI or DorkGPT provides a simiple terminal interface using rich and use
    ```
 4. Ensure the Ollama is installed and configured on your system - Visit [Ollama](https://ollama.com)'s website for installation instructions.
 
+5. Change the Ollama model if needed or desired my entering the name and parameter in the following vairable located in DorkGPT.py:
+   ```python
+   model_name = "gemma3:12b" # Model name and version (change if needed)
+   ```
+
 ## Usage
 1. Run the application:
    ```bash
@@ -46,4 +51,4 @@ GoogleDorkAI or DorkGPT provides a simiple terminal interface using rich and use
 Please feel free to leave comments, recommendations, and contribute however you feel :)
 
 ### Other Notes:
-I personally use gemma3:12b as my base AI but any model should work for this.
+I personally use gemma3:12b as my base AI but any model should work for this. You can also change the response result if you edit the prompt in prompts.py if desired.
